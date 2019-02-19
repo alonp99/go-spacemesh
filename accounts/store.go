@@ -7,9 +7,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/spacemeshos/go-spacemesh/crypto"
-	"github.com/spacemeshos/go-spacemesh/filesystem"
-	"github.com/spacemeshos/go-spacemesh/log"
+	"github.com/alonp99/go-spacemesh/crypto"
+	"github.com/alonp99/go-spacemesh/filesystem"
+	"github.com/alonp99/go-spacemesh/log"
 )
 
 // AccountData is used to persist an account.

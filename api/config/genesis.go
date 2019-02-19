@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/spacemeshos/go-spacemesh/address"
+	"github.com/alonp99/go-spacemesh/address"
 	"math/big"
 )
 

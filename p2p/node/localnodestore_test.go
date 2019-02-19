@@ -2,8 +2,8 @@ package node
 
 import (
 	"fmt"
-	"github.com/spacemeshos/go-spacemesh/filesystem"
-	"github.com/spacemeshos/go-spacemesh/p2p/config"
+	"github.com/alonp99/go-spacemesh/filesystem"
+	"github.com/alonp99/go-spacemesh/p2p/config"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

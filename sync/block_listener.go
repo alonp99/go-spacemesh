@@ -2,13 +2,13 @@ package sync
 
 import (
 	"bytes"
-	"github.com/spacemeshos/go-spacemesh/log"
-	"github.com/spacemeshos/go-spacemesh/mesh"
-	"github.com/spacemeshos/go-spacemesh/p2p"
-	"github.com/spacemeshos/go-spacemesh/p2p/config"
-	"github.com/spacemeshos/go-spacemesh/p2p/server"
-	"github.com/spacemeshos/go-spacemesh/p2p/service"
-	"github.com/spacemeshos/go-spacemesh/timesync"
+	"github.com/alonp99/go-spacemesh/log"
+	"github.com/alonp99/go-spacemesh/mesh"
+	"github.com/alonp99/go-spacemesh/p2p"
+	"github.com/alonp99/go-spacemesh/p2p/config"
+	"github.com/alonp99/go-spacemesh/p2p/server"
+	"github.com/alonp99/go-spacemesh/p2p/service"
+	"github.com/alonp99/go-spacemesh/timesync"
 	"sync/atomic"
 	"time"
 )

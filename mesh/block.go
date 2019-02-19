@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/davecgh/go-xdr/xdr2"
 	"github.com/google/uuid"
-	"github.com/spacemeshos/go-spacemesh/address"
+	"github.com/alonp99/go-spacemesh/address"
 	"io"
 	"math/big"
 	"time"

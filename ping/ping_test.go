@@ -1,7 +1,7 @@
 package ping
 
 import (
-	"github.com/spacemeshos/go-spacemesh/p2p/service"
+	"github.com/alonp99/go-spacemesh/p2p/service"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

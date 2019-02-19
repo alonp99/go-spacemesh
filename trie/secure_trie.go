@@ -18,9 +18,9 @@ package trie
 
 import (
 	"fmt"
-	"github.com/spacemeshos/go-spacemesh/common"
+	"github.com/alonp99/go-spacemesh/common"
 
-	"github.com/spacemeshos/go-spacemesh/log"
+	"github.com/alonp99/go-spacemesh/log"
 )
 
 // SecureTrie wraps a trie with key hashing. In a secure trie, all

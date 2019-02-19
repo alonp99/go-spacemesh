@@ -1,9 +1,9 @@
 package consensus
 
 import (
-	"github.com/spacemeshos/go-spacemesh/config"
-	"github.com/spacemeshos/go-spacemesh/log"
-	"github.com/spacemeshos/go-spacemesh/mesh"
+	"github.com/alonp99/go-spacemesh/config"
+	"github.com/alonp99/go-spacemesh/log"
+	"github.com/alonp99/go-spacemesh/mesh"
 )
 
 type Algorithm struct {

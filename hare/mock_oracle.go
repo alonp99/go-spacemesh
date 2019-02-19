@@ -1,7 +1,7 @@
 package hare
 
 import (
-	"github.com/spacemeshos/go-spacemesh/log"
+	"github.com/alonp99/go-spacemesh/log"
 	"hash/fnv"
 	"math"
 	"sync"

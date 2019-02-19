@@ -1,10 +1,10 @@
 package hare
 
 import (
-	"github.com/spacemeshos/go-spacemesh/eligibility"
-	"github.com/spacemeshos/go-spacemesh/hare/config"
-	"github.com/spacemeshos/go-spacemesh/log"
-	"github.com/spacemeshos/go-spacemesh/p2p"
+	"github.com/alonp99/go-spacemesh/eligibility"
+	"github.com/alonp99/go-spacemesh/hare/config"
+	"github.com/alonp99/go-spacemesh/log"
+	"github.com/alonp99/go-spacemesh/p2p"
 	"github.com/stretchr/testify/suite"
 	"testing"
 	"time"

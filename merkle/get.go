@@ -3,8 +3,8 @@ package merkle
 import (
 	"encoding/hex"
 	"errors"
-	"github.com/spacemeshos/go-spacemesh/log"
-	"github.com/spacemeshos/go-spacemesh/merkle/pb"
+	"github.com/alonp99/go-spacemesh/log"
+	"github.com/alonp99/go-spacemesh/merkle/pb"
 	"github.com/syndtr/goleveldb/leveldb"
 )
 

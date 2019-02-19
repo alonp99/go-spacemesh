@@ -2,8 +2,8 @@ package hare
 
 import (
 	"bytes"
-	"github.com/spacemeshos/go-spacemesh/hare/pb"
-	"github.com/spacemeshos/go-spacemesh/log"
+	"github.com/alonp99/go-spacemesh/hare/pb"
+	"github.com/alonp99/go-spacemesh/log"
 )
 
 type proposalTracker interface {

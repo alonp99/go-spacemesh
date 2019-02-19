@@ -9,7 +9,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/spacemeshos/go-spacemesh/timesync/config"
+	"github.com/alonp99/go-spacemesh/timesync/config"
 )
 
 const (

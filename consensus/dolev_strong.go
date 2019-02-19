@@ -2,14 +2,14 @@ package consensus
 
 import (
 	"github.com/golang/protobuf/proto"
-	"github.com/spacemeshos/go-spacemesh/consensus/pb"
-	"github.com/spacemeshos/go-spacemesh/log"
+	"github.com/alonp99/go-spacemesh/consensus/pb"
+	"github.com/alonp99/go-spacemesh/log"
 	//"reflect"
 	"bytes"
 	"errors"
 	"fmt"
-	dsCfg "github.com/spacemeshos/go-spacemesh/consensus/config"
-	"github.com/spacemeshos/go-spacemesh/crypto"
+	dsCfg "github.com/alonp99/go-spacemesh/consensus/config"
+	"github.com/alonp99/go-spacemesh/crypto"
 	"time"
 )
 

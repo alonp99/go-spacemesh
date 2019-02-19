@@ -4,7 +4,7 @@ import (
 	"crypto/rand"
 	"encoding/binary"
 	"errors"
-	"github.com/spacemeshos/go-spacemesh/log"
+	"github.com/alonp99/go-spacemesh/log"
 )
 
 // GetRandomBytesToBuffer puts n random bytes using go crypto.rand into provided buff slice.

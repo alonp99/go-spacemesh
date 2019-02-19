@@ -19,7 +19,7 @@ package hexutil_test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/spacemeshos/go-spacemesh/common/hexutil"
+	"github.com/alonp99/go-spacemesh/common/hexutil"
 )
 
 type MyType [5]byte

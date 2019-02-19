@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/spacemeshos/go-spacemesh/crypto"
+	"github.com/alonp99/go-spacemesh/crypto"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -19,11 +19,11 @@ package trie
 import (
 	"bytes"
 	"fmt"
-	"github.com/spacemeshos/go-spacemesh/database"
+	"github.com/alonp99/go-spacemesh/database"
 	"math/rand"
 	"testing"
 
-	"github.com/spacemeshos/go-spacemesh/common"
+	"github.com/alonp99/go-spacemesh/common"
 )
 
 func TestIterator(t *testing.T) {

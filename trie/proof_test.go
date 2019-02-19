@@ -19,13 +19,13 @@ package trie
 import (
 	"bytes"
 	crand "crypto/rand"
-	"github.com/spacemeshos/go-spacemesh/crypto"
-	"github.com/spacemeshos/go-spacemesh/database"
+	"github.com/alonp99/go-spacemesh/crypto"
+	"github.com/alonp99/go-spacemesh/database"
 	mrand "math/rand"
 	"testing"
 	"time"
 
-	"github.com/spacemeshos/go-spacemesh/common"
+	"github.com/alonp99/go-spacemesh/common"
 )
 
 func init() {

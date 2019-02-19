@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"errors"
 	"github.com/davecgh/go-xdr/xdr2"
-	"github.com/spacemeshos/go-spacemesh/common"
+	"github.com/alonp99/go-spacemesh/common"
 )
 
 func (b BlockID) ToBytes() []byte { return common.Uint32ToBytes(uint32(b)) }

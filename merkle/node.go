@@ -6,9 +6,9 @@ import (
 	"errors"
 	"fmt"
 	"github.com/gogo/protobuf/proto"
-	"github.com/spacemeshos/go-spacemesh/crypto"
-	"github.com/spacemeshos/go-spacemesh/log"
-	"github.com/spacemeshos/go-spacemesh/merkle/pb"
+	"github.com/alonp99/go-spacemesh/crypto"
+	"github.com/alonp99/go-spacemesh/log"
+	"github.com/alonp99/go-spacemesh/merkle/pb"
 	"github.com/syndtr/goleveldb/leveldb"
 )
 

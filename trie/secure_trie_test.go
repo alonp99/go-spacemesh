@@ -18,13 +18,13 @@ package trie
 
 import (
 	"bytes"
-	"github.com/spacemeshos/go-spacemesh/crypto"
-	"github.com/spacemeshos/go-spacemesh/database"
+	"github.com/alonp99/go-spacemesh/crypto"
+	"github.com/alonp99/go-spacemesh/database"
 	"runtime"
 	"sync"
 	"testing"
 
-	"github.com/spacemeshos/go-spacemesh/common"
+	"github.com/alonp99/go-spacemesh/common"
 )
 
 func newEmptySecure() *SecureTrie {

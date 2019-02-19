@@ -20,9 +20,9 @@ import (
 	"bytes"
 	"container/heap"
 	"errors"
-	"github.com/spacemeshos/go-spacemesh/rlp"
+	"github.com/alonp99/go-spacemesh/rlp"
 
-	"github.com/spacemeshos/go-spacemesh/common"
+	"github.com/alonp99/go-spacemesh/common"
 )
 
 // Iterator is a key-value trie iterator that traverses a Trie.

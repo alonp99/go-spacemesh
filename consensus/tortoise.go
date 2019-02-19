@@ -3,8 +3,8 @@ package consensus
 import (
 	"fmt"
 	"github.com/golang-collections/go-datastructures/bitarray"
-	"github.com/spacemeshos/go-spacemesh/log"
-	"github.com/spacemeshos/go-spacemesh/mesh"
+	"github.com/alonp99/go-spacemesh/log"
+	"github.com/alonp99/go-spacemesh/mesh"
 	"sync"
 )
 

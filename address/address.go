@@ -3,8 +3,8 @@ package address
 import (
 	"encoding/hex"
 	"fmt"
-	"github.com/spacemeshos/go-spacemesh/common"
-	"github.com/spacemeshos/go-spacemesh/crypto/sha3"
+	"github.com/alonp99/go-spacemesh/common"
+	"github.com/alonp99/go-spacemesh/crypto/sha3"
 	"math/big"
 	"reflect"
 )

@@ -2,9 +2,9 @@ package server
 
 import (
 	"fmt"
-	"github.com/spacemeshos/go-spacemesh/log"
-	"github.com/spacemeshos/go-spacemesh/p2p/config"
-	"github.com/spacemeshos/go-spacemesh/p2p/service"
+	"github.com/alonp99/go-spacemesh/log"
+	"github.com/alonp99/go-spacemesh/p2p/config"
+	"github.com/alonp99/go-spacemesh/p2p/service"
 	"github.com/stretchr/testify/assert"
 	"testing"
 	"time"

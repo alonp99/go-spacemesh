@@ -2,9 +2,9 @@ package mesh
 
 import (
 	"bytes"
-	"github.com/spacemeshos/go-spacemesh/database"
-	"github.com/spacemeshos/go-spacemesh/log"
-	"github.com/spacemeshos/go-spacemesh/state"
+	"github.com/alonp99/go-spacemesh/database"
+	"github.com/alonp99/go-spacemesh/log"
+	"github.com/alonp99/go-spacemesh/state"
 	"github.com/stretchr/testify/assert"
 	"testing"
 	"time"

@@ -1,7 +1,7 @@
 package timesync
 
 import (
-	"github.com/spacemeshos/go-spacemesh/mesh"
+	"github.com/alonp99/go-spacemesh/mesh"
 	"github.com/stretchr/testify/assert"
 	"testing"
 	"time"

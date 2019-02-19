@@ -1,9 +1,9 @@
 package hare
 
 import (
-	"github.com/spacemeshos/go-spacemesh/hare/metrics"
-	"github.com/spacemeshos/go-spacemesh/hare/pb"
-	"github.com/spacemeshos/go-spacemesh/log"
+	"github.com/alonp99/go-spacemesh/hare/metrics"
+	"github.com/alonp99/go-spacemesh/hare/pb"
+	"github.com/alonp99/go-spacemesh/log"
 )
 
 type PreRoundTracker struct {

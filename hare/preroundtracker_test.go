@@ -1,7 +1,7 @@
 package hare
 
 import (
-	"github.com/spacemeshos/go-spacemesh/hare/pb"
+	"github.com/alonp99/go-spacemesh/hare/pb"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

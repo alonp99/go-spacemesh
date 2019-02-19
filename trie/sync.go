@@ -19,8 +19,8 @@ package trie
 import (
 	"errors"
 	"fmt"
-	"github.com/spacemeshos/go-spacemesh/common"
-	"github.com/spacemeshos/go-spacemesh/common/prque"
+	"github.com/alonp99/go-spacemesh/common"
+	"github.com/alonp99/go-spacemesh/common/prque"
 )
 
 // Putter wraps the database write operation supported by both batches and regular databases.

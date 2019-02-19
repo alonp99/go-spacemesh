@@ -2,7 +2,7 @@ package consensus
 
 import (
 	"github.com/google/uuid"
-	"github.com/spacemeshos/go-spacemesh/mesh"
+	"github.com/alonp99/go-spacemesh/mesh"
 	"time"
 )
 

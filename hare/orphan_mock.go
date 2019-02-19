@@ -1,6 +1,6 @@
 package hare
 
-import "github.com/spacemeshos/go-spacemesh/mesh"
+import "github.com/alonp99/go-spacemesh/mesh"
 
 type orphanMock struct {
 	f func() []mesh.BlockID

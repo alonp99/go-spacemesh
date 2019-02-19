@@ -3,7 +3,7 @@ package config
 import (
 	"time"
 
-	"github.com/spacemeshos/go-spacemesh/log"
+	"github.com/alonp99/go-spacemesh/log"
 )
 
 // ConfigValues specifies  default values for node config params.
