@@ -18,10 +18,10 @@ package trie
 
 import (
 	"bytes"
-	"github.com/spacemeshos/go-spacemesh/database"
+	"github.com/alonp99/go-spacemesh/database"
 	"testing"
 
-	"github.com/spacemeshos/go-spacemesh/common"
+	"github.com/alonp99/go-spacemesh/common"
 )
 
 // makeTestTrie create a sample test trie to test node-wise reconstruction.

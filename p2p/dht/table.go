@@ -2,10 +2,10 @@ package dht
 
 import (
 	"fmt"
-	"github.com/spacemeshos/go-spacemesh/crypto"
-	"github.com/spacemeshos/go-spacemesh/log"
-	"github.com/spacemeshos/go-spacemesh/p2p/metrics"
-	"github.com/spacemeshos/go-spacemesh/p2p/node"
+	"github.com/alonp99/go-spacemesh/crypto"
+	"github.com/alonp99/go-spacemesh/log"
+	"github.com/alonp99/go-spacemesh/p2p/metrics"
+	"github.com/alonp99/go-spacemesh/p2p/node"
 )
 
 const (

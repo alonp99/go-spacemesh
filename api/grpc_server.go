@@ -3,12 +3,12 @@ package api
 
 import (
 	"fmt"
-	"github.com/spacemeshos/go-spacemesh/address"
-	"github.com/spacemeshos/go-spacemesh/api/config"
-	"github.com/spacemeshos/go-spacemesh/api/pb"
-	"github.com/spacemeshos/go-spacemesh/log"
-	"github.com/spacemeshos/go-spacemesh/mesh"
-	"github.com/spacemeshos/go-spacemesh/miner"
+	"github.com/alonp99/go-spacemesh/address"
+	"github.com/alonp99/go-spacemesh/api/config"
+	"github.com/alonp99/go-spacemesh/api/pb"
+	"github.com/alonp99/go-spacemesh/log"
+	"github.com/alonp99/go-spacemesh/mesh"
+	"github.com/alonp99/go-spacemesh/miner"
 	"math/big"
 	"net"
 	"strconv"

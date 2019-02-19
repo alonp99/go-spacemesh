@@ -5,7 +5,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"github.com/spacemeshos/go-spacemesh/p2p/service"
+	"github.com/alonp99/go-spacemesh/p2p/service"
 	"github.com/stretchr/testify/suite"
 	"golang.org/x/sync/errgroup"
 	"sync/atomic"

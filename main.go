@@ -3,7 +3,7 @@
 package main
 
 import (
-	"github.com/spacemeshos/go-spacemesh/app"
+	"github.com/alonp99/go-spacemesh/app"
 )
 
 func main() { // run the app

@@ -1,8 +1,8 @@
 package p2p
 
 import (
-	"github.com/spacemeshos/go-spacemesh/p2p/p2pcrypto"
-	"github.com/spacemeshos/go-spacemesh/p2p/service"
+	"github.com/alonp99/go-spacemesh/p2p/p2pcrypto"
+	"github.com/alonp99/go-spacemesh/p2p/service"
 	"github.com/stretchr/testify/assert"
 	"sync/atomic"
 	"testing"

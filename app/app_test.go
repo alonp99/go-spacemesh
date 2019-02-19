@@ -2,13 +2,13 @@ package app
 
 import (
 	"fmt"
-	"github.com/spacemeshos/go-spacemesh/address"
-	"github.com/spacemeshos/go-spacemesh/api/config"
-	"github.com/spacemeshos/go-spacemesh/hare"
-	"github.com/spacemeshos/go-spacemesh/mesh"
-	"github.com/spacemeshos/go-spacemesh/miner"
-	"github.com/spacemeshos/go-spacemesh/oracle"
-	"github.com/spacemeshos/go-spacemesh/p2p/service"
+	"github.com/alonp99/go-spacemesh/address"
+	"github.com/alonp99/go-spacemesh/api/config"
+	"github.com/alonp99/go-spacemesh/hare"
+	"github.com/alonp99/go-spacemesh/mesh"
+	"github.com/alonp99/go-spacemesh/miner"
+	"github.com/alonp99/go-spacemesh/oracle"
+	"github.com/alonp99/go-spacemesh/p2p/service"
 	"github.com/stretchr/testify/suite"
 	"math/big"
 	"os"
@@ -17,7 +17,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/spacemeshos/go-spacemesh/filesystem"
+	"github.com/alonp99/go-spacemesh/filesystem"
 )
 
 type AppTestSuite struct {

@@ -2,7 +2,7 @@ package dht
 
 import (
 	"container/list"
-	"github.com/spacemeshos/go-spacemesh/p2p/node"
+	"github.com/alonp99/go-spacemesh/p2p/node"
 )
 
 // Bucket is a dht k-bucket type. Bucket methods are NOT thread safe.
