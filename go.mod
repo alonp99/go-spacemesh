@@ -1,4 +1,4 @@
-module github.com/spacemeshos/go-spacemesh
+module github.com/alonp99/go-spacemesh
 
 require (
 	github.com/BurntSushi/toml v0.3.1 // indirect
