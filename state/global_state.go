@@ -2,11 +2,11 @@ package state
 
 import (
 	"fmt"
-	"github.com/spacemeshos/go-spacemesh/address"
-	"github.com/spacemeshos/go-spacemesh/common"
-	"github.com/spacemeshos/go-spacemesh/log"
-	"github.com/spacemeshos/go-spacemesh/rlp"
-	"github.com/spacemeshos/go-spacemesh/trie"
+	"github.com/alonp99/go-spacemesh/address"
+	"github.com/alonp99/go-spacemesh/common"
+	"github.com/alonp99/go-spacemesh/log"
+	"github.com/alonp99/go-spacemesh/rlp"
+	"github.com/alonp99/go-spacemesh/trie"
 	"math/big"
 	"sync"
 )

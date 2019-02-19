@@ -2,7 +2,7 @@ package node
 
 import (
 	"fmt"
-	"github.com/spacemeshos/go-spacemesh/p2p/p2pcrypto"
+	"github.com/alonp99/go-spacemesh/p2p/p2pcrypto"
 	"strings"
 )
 

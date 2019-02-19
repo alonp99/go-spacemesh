@@ -2,10 +2,10 @@ package state
 
 import (
 	"github.com/seehuhn/mt19937"
-	"github.com/spacemeshos/go-spacemesh/address"
-	"github.com/spacemeshos/go-spacemesh/common"
-	"github.com/spacemeshos/go-spacemesh/database"
-	"github.com/spacemeshos/go-spacemesh/log"
+	"github.com/alonp99/go-spacemesh/address"
+	"github.com/alonp99/go-spacemesh/common"
+	"github.com/alonp99/go-spacemesh/database"
+	"github.com/alonp99/go-spacemesh/log"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/suite"
 	"math/big"

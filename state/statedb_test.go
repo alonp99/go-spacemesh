@@ -17,9 +17,9 @@
 package state
 
 import (
-	"github.com/spacemeshos/go-spacemesh/address"
-	"github.com/spacemeshos/go-spacemesh/common"
-	"github.com/spacemeshos/go-spacemesh/database"
+	"github.com/alonp99/go-spacemesh/address"
+	"github.com/alonp99/go-spacemesh/common"
+	"github.com/alonp99/go-spacemesh/database"
 
 	"math/big"
 	"testing"

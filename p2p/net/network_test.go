@@ -1,8 +1,8 @@
 package net
 
 import (
-	"github.com/spacemeshos/go-spacemesh/p2p/config"
-	"github.com/spacemeshos/go-spacemesh/p2p/node"
+	"github.com/alonp99/go-spacemesh/p2p/config"
+	"github.com/alonp99/go-spacemesh/p2p/node"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"math/rand"

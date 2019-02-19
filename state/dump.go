@@ -19,9 +19,9 @@ package state
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/spacemeshos/go-spacemesh/common"
-	"github.com/spacemeshos/go-spacemesh/rlp"
-	"github.com/spacemeshos/go-spacemesh/trie"
+	"github.com/alonp99/go-spacemesh/common"
+	"github.com/alonp99/go-spacemesh/rlp"
+	"github.com/alonp99/go-spacemesh/trie"
 )
 
 type DumpAccount struct {

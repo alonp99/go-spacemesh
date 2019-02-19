@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"encoding/hex"
 	"fmt"
-	"github.com/spacemeshos/go-spacemesh/common/hexutil"
+	"github.com/alonp99/go-spacemesh/common/hexutil"
 	"math/big"
 	"math/rand"
 	"reflect"

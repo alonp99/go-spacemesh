@@ -3,12 +3,12 @@ package dht
 import (
 	"errors"
 	"github.com/gogo/protobuf/proto"
-	"github.com/spacemeshos/go-spacemesh/crypto"
-	"github.com/spacemeshos/go-spacemesh/log"
-	"github.com/spacemeshos/go-spacemesh/p2p/dht/pb"
-	"github.com/spacemeshos/go-spacemesh/p2p/node"
-	"github.com/spacemeshos/go-spacemesh/p2p/p2pcrypto"
-	"github.com/spacemeshos/go-spacemesh/p2p/service"
+	"github.com/alonp99/go-spacemesh/crypto"
+	"github.com/alonp99/go-spacemesh/log"
+	"github.com/alonp99/go-spacemesh/p2p/dht/pb"
+	"github.com/alonp99/go-spacemesh/p2p/node"
+	"github.com/alonp99/go-spacemesh/p2p/p2pcrypto"
+	"github.com/alonp99/go-spacemesh/p2p/service"
 	"sync"
 	"time"
 )

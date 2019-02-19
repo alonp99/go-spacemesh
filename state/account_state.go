@@ -1,10 +1,10 @@
 package state
 
 import (
-	"github.com/spacemeshos/go-spacemesh/address"
-	"github.com/spacemeshos/go-spacemesh/common"
-	"github.com/spacemeshos/go-spacemesh/crypto"
-	"github.com/spacemeshos/go-spacemesh/rlp"
+	"github.com/alonp99/go-spacemesh/address"
+	"github.com/alonp99/go-spacemesh/common"
+	"github.com/alonp99/go-spacemesh/crypto"
+	"github.com/alonp99/go-spacemesh/rlp"
 	"io"
 	"math/big"
 )

@@ -17,9 +17,9 @@
 package trie
 
 import (
-	"github.com/spacemeshos/go-spacemesh/common"
-	"github.com/spacemeshos/go-spacemesh/crypto/sha3"
-	"github.com/spacemeshos/go-spacemesh/rlp"
+	"github.com/alonp99/go-spacemesh/common"
+	"github.com/alonp99/go-spacemesh/crypto/sha3"
+	"github.com/alonp99/go-spacemesh/rlp"
 	"hash"
 	"sync"
 )

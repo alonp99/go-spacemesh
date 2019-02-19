@@ -19,7 +19,7 @@ package database_test
 import (
 	"bytes"
 	"fmt"
-	"github.com/spacemeshos/go-spacemesh/database"
+	"github.com/alonp99/go-spacemesh/database"
 	"io/ioutil"
 	"os"
 	"strconv"

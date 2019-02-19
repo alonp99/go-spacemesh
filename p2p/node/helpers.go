@@ -3,8 +3,8 @@ package node
 import (
 	"errors"
 	"fmt"
-	"github.com/spacemeshos/go-spacemesh/p2p/config"
-	"github.com/spacemeshos/go-spacemesh/p2p/p2pcrypto"
+	"github.com/alonp99/go-spacemesh/p2p/config"
+	"github.com/alonp99/go-spacemesh/p2p/p2pcrypto"
 	"math/rand"
 	"net"
 	"testing"

@@ -1,8 +1,8 @@
 package net
 
 import (
-	"github.com/spacemeshos/go-spacemesh/log"
-	"github.com/spacemeshos/go-spacemesh/p2p/p2pcrypto"
+	"github.com/alonp99/go-spacemesh/log"
+	"github.com/alonp99/go-spacemesh/p2p/p2pcrypto"
 	"math/rand"
 	"net"
 	"sync/atomic"

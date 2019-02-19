@@ -2,9 +2,9 @@ package net
 
 import (
 	"errors"
-	"github.com/spacemeshos/go-spacemesh/log"
-	"github.com/spacemeshos/go-spacemesh/p2p/metrics"
-	"github.com/spacemeshos/go-spacemesh/p2p/p2pcrypto"
+	"github.com/alonp99/go-spacemesh/log"
+	"github.com/alonp99/go-spacemesh/p2p/metrics"
+	"github.com/alonp99/go-spacemesh/p2p/p2pcrypto"
 	"time"
 
 	"fmt"
@@ -12,8 +12,8 @@ import (
 	"net"
 	"sync"
 
-	"github.com/spacemeshos/go-spacemesh/crypto"
-	"github.com/spacemeshos/go-spacemesh/p2p/net/wire"
+	"github.com/alonp99/go-spacemesh/crypto"
+	"github.com/alonp99/go-spacemesh/p2p/net/wire"
 )
 
 var (

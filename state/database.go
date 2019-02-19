@@ -18,9 +18,9 @@ package state
 
 import (
 	"fmt"
-	"github.com/spacemeshos/go-spacemesh/common"
-	"github.com/spacemeshos/go-spacemesh/database"
-	"github.com/spacemeshos/go-spacemesh/trie"
+	"github.com/alonp99/go-spacemesh/common"
+	"github.com/alonp99/go-spacemesh/database"
+	"github.com/alonp99/go-spacemesh/trie"
 	"sync"
 )
 

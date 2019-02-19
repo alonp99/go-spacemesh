@@ -3,8 +3,8 @@ package net
 import (
 	"errors"
 	"fmt"
-	"github.com/spacemeshos/go-spacemesh/p2p/delimited"
-	"github.com/spacemeshos/go-spacemesh/p2p/p2pcrypto"
+	"github.com/alonp99/go-spacemesh/p2p/delimited"
+	"github.com/alonp99/go-spacemesh/p2p/p2pcrypto"
 	"github.com/stretchr/testify/assert"
 	"net"
 	"runtime"
